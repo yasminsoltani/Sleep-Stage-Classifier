@@ -1,4 +1,4 @@
-# Building a Machine Learning Model for Sleep Stage Classification 💤🤖🛌
+# Building a Machine Learning Model for Sleep Stage Classification 💤🛌
 
 ## Introduction
 Sleep classification has been a central focus in sleep medicine since the early 20th century, with foundational efforts beginning in the 1930s when researchers first recorded and categorized brain activity during sleep using electroencephalography (EEG).
