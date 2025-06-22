@@ -12,6 +12,10 @@ But EEG is just one part of the story. In sleep clinics, doctors use something c
 This short video-clip from Harvard Prerau Lab illustrates it perfectly:
 
 
+https://github.com/user-attachments/assets/7ae4106e-3a30-4a2a-a836-28436c7fba86
+
+
+
 
 
 
